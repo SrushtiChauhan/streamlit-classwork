@@ -24,3 +24,9 @@ This is my first streamlit program.pipenv
 9.  Launch your demo app: `streamlit hello`
 10. To stop the demo app, `CTRL + C`
 11. Make an empty python file. Launch it with streamlit, `streamlit run my_blank_app.py`  ![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-02.png)
+
+# Make a new python file. Launch it with streamlit, `streamlit run uber_pickups.py`  ![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-03.png)
+![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-04.png)
+![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-05.png)
+![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-06.png)
+![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-07.png)
