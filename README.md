@@ -1,5 +1,5 @@
 # streamlit-classwork
-This is my first streamlit program.pipenv
+This is my first streamlit program.
 https://github.com/SrushtiChauhan/streamlit-classwork 
 
 ## Make a Streamlit Application
