@@ -23,4 +23,4 @@ This is my first streamlit program.pipenv
    2. First activate environment with `pipenv shell`, second run the streamlit with `streamlit hello` command.  ![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-01.png)
 9.  Launch your demo app: `streamlit hello`
 10. To stop the demo app, `CTRL + C`
-11. Make an empty python file. Launch it with streamlit, `streamlit run my_blank_app.py`
+11. Make an empty python file. Launch it with streamlit, `streamlit run my_blank_app.py`  ![alt text](https://github.com/SrushtiChauhan/streamlit-classwork/blob/main/images/op-02.png)
