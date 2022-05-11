@@ -1,4 +1,5 @@
 from typing_extensions import Required
+import typing_extensions
 from logging import getLogger
 
 import streamlit as st
